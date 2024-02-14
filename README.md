@@ -14,14 +14,17 @@ This version of the program can be configured within a GUI to change source dire
 This version is the same as the GUI version but lighter weight as all configuration is done at the command line
 
 ## Installation
-To install download from my GitHub page or **Click Here** **ADD LINK TO DOWNLOAD** Then just extract the folder wherever you would like to keep it.
+[GUI](https://github.com/Blake-Hill/DeskStop---Gui/archive/refs/heads/master.zip)
+[CLI](https://github.com/Blake-Hill/DeskStop/archive/refs/heads/master.zip)
+[Simple](https://github.com/Blake-Hill/DeskStop---Simple/archive/refs/heads/master.zip)
 
 ## Usage
-For the simple version just double click!
+If using GUI run main.py, for the other versions run DeskStop.py
 
 Upon launching the CLI or GUI version for the first time you will be prompted for source directory(s), target directory, and whitelist.
 The source directory is the directory you want cleaned. The target directory is where you want all the files to go once sorted. Finally, the whitelist is all the files you do not want to be moved from the source directory.
 
 ## Contributing
 
-This is mostly a personal project but if you would like to contribute feel free to shoot me an email @BlakeHill.Work@outlook.com to discuss
+This is mostly a personal project but if you would like to contribute feel free to shoot me an email 
+@BlakeHill.Work@outlook.com to discuss
