@@ -15,7 +15,9 @@ This version is the same as the GUI version but lighter weight as all configurat
 
 ## Installation
 [GUI](https://github.com/Blake-Hill/DeskStop---Gui/archive/refs/heads/master.zip)
+
 [CLI](https://github.com/Blake-Hill/DeskStop/archive/refs/heads/master.zip)
+
 [Simple](https://github.com/Blake-Hill/DeskStop---Simple/archive/refs/heads/master.zip)
 
 ## Usage
